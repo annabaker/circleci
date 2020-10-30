@@ -1,5 +1,5 @@
 # circleci
-This project is part of an interview assignment for CircleCI. The document should be in markdown or Asciidoc and no longer than 500 words on the differences between Workspaces and Caching on CircleCI.
+This project is part of an interview assignment for CircleCI. The document [workspacesvscaching.md](workspacesvscaching.md) covers the differences between Workspaces and Caching on CircleCI.
 
 The section on [Caches, Workspaces, and Artifacts](https://circleci.com/docs/2.0/concepts/#caches-workspaces-and-artifacts) was used as a reference for this technical document.
 
