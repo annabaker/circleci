@@ -8,6 +8,6 @@ The hidden `circleci` directory contains a [`config.yml`](https://github.com/ann
 
 To run, ensure your account is integrated with [Github](https://circleci.com/docs/2.0/gh-bb-integration/) and clone the `circleci` project.
 
-Navigate to the Projects tab in the left-hand panel under your dashboard view. Select the **Set Up Project&** button.
+Navigate to the Projects tab in the left-hand panel under your dashboard view. Select the **Set Up Project** button.
 
 After selecting the Set Up Project button, you will be brought to the `config.yml` file mentioned previously. Select the **Use Existing Config** button and then select the **Start Building** button to build the project.
